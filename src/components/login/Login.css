@@ -1,0 +1,4 @@
+#root, body {
+    background: linear-gradient(69deg, #060606 11.65%, #0D3231 66.81%, #0A0C0C 103.36%);
+  } 
+  /*necesito este css, ya que sin él el background se deja de cargar, aiuda :(*/
